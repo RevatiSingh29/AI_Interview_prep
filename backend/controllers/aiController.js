@@ -1,7 +1,7 @@
 const { GoogleGenAI } = require("@google/genai");
 const { questionAnswerPrompt, conceptExplainPrompt } = require("../utils/prompts");
 
-const ai = new GoogleGenAI({ apiKey: 'AIzaSyC87AxLLYG2WnSllGFR5mp25gWzdKcEh_c' });
+const ai = new GoogleGenAI({ apiKey: 'MySecretAPIKey});
 
 const generateInterviewQuestions = async (req, res) => {
   try {
