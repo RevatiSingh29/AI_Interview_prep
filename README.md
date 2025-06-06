@@ -2,6 +2,7 @@
 
 An AI-powered full-stack interview preparation app built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and integrated with the **Gemini API** to generate intelligent technical interview questions and answers based on a user's job role and experience.
 
+
 ## Features
 
 - 🔐 **User Authentication** – Secure login and registration using JWT-based authentication.
@@ -11,6 +12,7 @@ An AI-powered full-stack interview preparation app built using the **MERN stack 
 - 📂 **Session Management** – Create, save, and review interview sessions.
 - 🎨 **Responsive Frontend** – Built with Tailwind CSS for modern UI/UX.
 - 💾 **MongoDB Storage** – All sessions and questions are stored in MongoDB for persistent access.
+  
 
 ## Images(Frontend):
 ![image](https://github.com/user-attachments/assets/eb0881de-a114-42b3-b9f0-e5e58b5c2378)
